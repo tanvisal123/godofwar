@@ -15,6 +15,7 @@ class counter extends StatelessWidget {
   final int itemCount = 1;
   CartController cartController = Get.find();
   @override
+  asdasdasd
   Widget build(BuildContext context) {
     return Row(
      

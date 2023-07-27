@@ -10,6 +10,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  asdasdasads
   CartController cartController = Get.put(CartController());
    ProductController productController = Get.put(ProductController());
    MyApp({Key? key}) : super(key: key);

@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 
 class CoffeeDetails extends StatelessWidget {
     String image,title,detail,price;
-
+asdasdasdas
     
    
    CoffeeDetails({
